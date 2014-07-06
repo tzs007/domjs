@@ -1,0 +1,24 @@
+{
+  "name": "domjs",
+  "main": "index.js",
+  "version": "0.2.3",
+  "homepage": "https://github.com/medikoo/domjs",
+  "authors": [
+    "medikoo medyk@medikoo.com"
+  ],
+  "description": "Build dom structure easy way with plain JavaScript. Can be used on both client and server side.",
+  "keywords": [
+    "dom",
+    "javascript",
+    "frontend",
+    "sitebuild"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
